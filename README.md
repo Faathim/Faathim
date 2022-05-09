@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Faathim
+- 👀 I’m interested in automation testing
